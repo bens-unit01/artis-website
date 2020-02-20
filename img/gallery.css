@@ -1,0 +1,95 @@
+body,h1,h2,h3,p,td,quote,small,form,input,ul,li,ol,label{
+	margin:0px;
+	padding:0px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+	margin-top:20px;
+	color:white;
+	font-size:13px;
+	background-color:#222222;
+}
+
+.clear{
+	clear:both;
+}
+
+.CadreGallery{
+    margin-bottom: 50px;
+    padding: 0 0 20px;
+    border: 1px solid #e1e1e1; 
+    border-radius: 5px;
+    text-align: center;
+    min-height: 1130px
+}
+a, a:visited {
+/*	color:#00BBFF; */
+	border:none;
+/*    color:#000000; */
+    font-weight:600;
+    text-decoration:none;
+}
+
+a:hover{
+	text-decoration:underline;
+	color:#e12000;
+    border: none;
+/*     background-color:#f7f7f7; */ 
+}
+
+#container{
+	width:890px;
+	margin:20px auto;
+}
+
+#heading,#footer{
+	background-color:#2A2A2A;
+	border:1px solid #444444;
+	height:20px;
+	padding:6px 0 25px 15px;
+	margin-bottom:30px;
+	overflow:hidden;
+}
+
+#footer{
+	height:10px;
+	margin:20px 0 20px 0;
+	padding:6px 0 11px 15px;
+}
+
+div.nomargin{
+	margin-right:0px;
+}
+
+.pic{
+	float:left;
+	margin:0 15px 15px 0;
+	border:5px solid white;
+	width:200px;
+	height:250px;
+}
+
+.pic a{
+    width: 200px;
+    height: 250px;
+    text-indent: -99999px;
+    display: block;
+/*    background-color: #392824; */
+/*    opacity: 0.22;  */
+/*    border: 1px solid #141111; */ 
+   border: 3px solid #D5D5D5; 
+}
+
+h1{
+	font-size:28px;
+	font-weight:bold;
+	font-family:"Trebuchet MS",Arial, Helvetica, sans-serif;
+}
+
+h2{
+	font-weight:normal;
+	font-size:14px;
+	
+	color:white;
+}

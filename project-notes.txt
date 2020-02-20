@@ -1,0 +1,107 @@
+
+
+.Link--goTo.Link--goToScrollDown
+
+
+
+services
+entreprise 
+
+Contactez-nous 
+
+
+1100x392
+
+
+<source type="video/webm"
+									src="//d585tldpucybw.cloudfront.net/telerik-videos/homepage/video-header.webm">
+								<source type="video/mp4"
+									src="//d585tldpucybw.cloudfront.net/telerik-videos/homepage/video-header.mp4">
+<a href="http://www.telerik.com/#products" class="Dropdown-control Bar-menu-link">
+    PRODUCTS <em class="Dropdown-arrow"></em>
+    </a>
+    
+    class="Dropdown-view Dash"
+    li.Dropdown > div:nth-child(2)
+   196-373 
+   
+   
+   
+   ProductBox ProductBox--devcraft
+   
+   
+1.  Etude de marché         ANALYSE  
+5.  Aménagment d'inérieur et traitement de façades DESIGN
+7.  PLV                     SUPPORTS PLV  
+8.  Objets publicitaires     CORP. GIFTS 
+9.  Conseil                CONSULTING  
+2.  Affichage urbain        SUPPORT PUB. 
+3.  Stands personnalisés    SUPPORT PUB. 
+4.  Habillage véhicule      SUPPORT PUB. 
+6.  Impressions numériques  SUPPORT PUB.
+
+  
+  é     &eacute; 
+  ç 	&ccedil;
+  à  	&agrave;
+  ê     &ecirc;
+         
+  bleu #02a2e1; (02, 162, 225)
+  vert #32c563; (50, 197, 99)
+  rouge #f86859; (248, 104, 89)
+  
+  ff8500
+  ffb600
+  
+  GeneralContent_C079_Col00
+  sf_cols Section u-pt7  u-pb6 Section--yellow3 Section--awardshome
+  HomepageHeader-hgroup
+  sf_cols Section Section--green5 Section--m
+  hgroup2 u-pb6
+  sf_cols rowd
+   
+  developez votre force de vente 
+  Choisissez les meilleurs partenaires 
+  
+  logos produits utilisés ??- 
+  
+  
+  Contacts: 
+  
+  Adresse :
+   EURL ARTIS COMMUNICATION
+   10 rue Bourafrouf Slimane, Bellevue 
+  Constantine
+  Tel : +(213) 31-922-025
+  Mobile : +(213) 553-166-252
+  Fax : +(213) 31-936-908
+  
+  
+  
+  
+position: absolute;
+left: 50%;
+bottom: 80px;
+margin-left: -20.25px; 
+
+
+
+
+ //CSS files 
+ homepage.css
+ style.css
+ 
+// containers 
+class="HomepageHeader" 
+
+class="sf_cols_Section| SectionProductBoxes"
+    class='sf_cols row u-small-mb2"
+class="sf_cols Section"
+
+
+  
+  
+  
+  
+  
+ 

@@ -1,0 +1,23 @@
+0000000000000000000000000000000000000000 453e8e26edced63b38758f67915849296ad66577 bens-unit01 <bensalem.messaoud@gmail.com> 1459472850 -0400	clone: from ssh://56fdc7452d5271fec1000048@projetrimel-demo023.rhcloud.com/~/git/projetrimel.git/
+453e8e26edced63b38758f67915849296ad66577 89acc04a98cd51c9aabff5ed99b763c2da165f0d bens-unit01 <bensalem.messaoud@gmail.com> 1459473772 -0400	commit: premier commit
+89acc04a98cd51c9aabff5ed99b763c2da165f0d f228a37a3f74ab3486a8061321d7030b38670ce2 bens-unit01 <bensalem.messaoud@gmail.com> 1459710819 -0400	commit: 1ere version, template
+f228a37a3f74ab3486a8061321d7030b38670ce2 416956e3f6689f58ed132aae1e2603bca866459b bens-unit01 <bensalem.messaoud@gmail.com> 1459818444 -0400	commit: cleanup ...
+416956e3f6689f58ed132aae1e2603bca866459b 4a90415a595144f8fc39ef141d16f4a5b3b331b4 bens-unit01 <bensalem.messaoud@gmail.com> 1459991006 -0400	commit: m-a-j photos principale et contenu des petis cadres
+4a90415a595144f8fc39ef141d16f4a5b3b331b4 c263f70018fae2bae660e55e085978a56a0343fb bens-unit01 <bensalem.messaoud@gmail.com> 1459994835 -0400	commit: photo plus claire
+c263f70018fae2bae660e55e085978a56a0343fb 54034440d53cd3533257fbd0d9e8a3c7187c9555 bens-unit01 <bensalem.messaoud@gmail.com> 1459995000 -0400	commit: sync maison
+54034440d53cd3533257fbd0d9e8a3c7187c9555 d90b201beef67ec53eddf7b1a91650bc40e891af bens-unit01 <bensalem.messaoud@gmail.com> 1460075055 -0400	commit: test sans index
+d90b201beef67ec53eddf7b1a91650bc40e891af 4823e82d3fa3cb6b6455075a0e0fc0971cfa1888 bens-unit01 <bensalem.messaoud@gmail.com> 1460075125 -0400	commit: fin du test
+4823e82d3fa3cb6b6455075a0e0fc0971cfa1888 4728e360654221bdbb5523086563bc6f5fa70956 bens-unit01 <bensalem.messaoud@gmail.com> 1460232692 -0400	commit: ajout lien, vignettes et discriptions ...
+4728e360654221bdbb5523086563bc6f5fa70956 ba38084e2f5037981ed3cf8d910ed37294e2f3c4 bens-unit01 <bensalem.messaoud@gmail.com> 1460234675 -0400	commit: ajustement positions vignettes
+ba38084e2f5037981ed3cf8d910ed37294e2f3c4 39e58d0e3d2210059434c82bb2a36d363a5c3cd7 bens-unit01 <bensalem.messaoud@gmail.com> 1460686259 -0400	commit: modifs, liens sur l-image
+39e58d0e3d2210059434c82bb2a36d363a5c3cd7 de030b697f259a60b095d7e5265ef07379f1cb5a bens-unit01 <bensalem.messaoud@gmail.com> 1463020618 -0400	commit: ajout demo gallerie photo
+de030b697f259a60b095d7e5265ef07379f1cb5a a51de4bcc2f900c9218ff4a891089ac6d8e44621 bens-unit01 <bensalem.messaoud@gmail.com> 1463358763 -0400	commit: version 1, gallerie photo
+a51de4bcc2f900c9218ff4a891089ac6d8e44621 92070ca3854a4f218dd29a2b2345f95f7cc9dba9 bens-unit01 <bensalem.messaoud@gmail.com> 1463624604 -0400	commit: 2eme version gallerie photo
+92070ca3854a4f218dd29a2b2345f95f7cc9dba9 373e360489bb6b28e747db3b7064fcdf02be3256 bens-unit01 <bensalem.messaoud@gmail.com> 1463625438 -0400	commit: ajout page en construction
+373e360489bb6b28e747db3b7064fcdf02be3256 64774b420dd6c7f54f2714d0b71ead5dabb3f4cc bens-unit01 <bensalem.messaoud@gmail.com> 1465148245 -0400	commit: retour page d-accueil originale
+64774b420dd6c7f54f2714d0b71ead5dabb3f4cc 4a041f0d643abe714207968f00b4f27c44c5044e bens-unit01 <bensalem.messaoud@gmail.com> 1465149246 -0400	commit: sync maison
+4a041f0d643abe714207968f00b4f27c44c5044e cf180266a2605c9449e28f6ad7ee1f249bd4877f bens-unit01 <bensalem.messaoud@gmail.com> 1465149325 -0400	commit: sync2 maison
+cf180266a2605c9449e28f6ad7ee1f249bd4877f 788539ad6736014671c1756a989ae6ecd7fcf915 bens-unit01 <bensalem.messaoud@gmail.com> 1465151345 -0400	commit: ajout de event hover sur l-element icon-circle-down
+788539ad6736014671c1756a989ae6ecd7fcf915 db438e86eefc8c25dbdbef9d9a27652d028b081b bens-unit01 <bensalem.messaoud@gmail.com> 1465152337 -0400	commit: cadre gris pour les photos dans la gallerie --> projets
+db438e86eefc8c25dbdbef9d9a27652d028b081b 52346ad70d3702c5888e188fdccbc6f5b828f338 bens-unit01 <bensalem.messaoud@gmail.com> 1465153321 -0400	commit: ajout margin 40px a gauce et droite dans
+52346ad70d3702c5888e188fdccbc6f5b828f338 8e9b06da1b83c4c0a00216fdf5675fc581d44aed bens-unit01 <bensalem.messaoud@gmail.com> 1465154502 -0400	commit: pages separe pour les support-pub
